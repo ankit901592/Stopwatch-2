@@ -1,2 +1,2 @@
 # ankitRepo
-it is my first repositry
+it is my first repositry of github
